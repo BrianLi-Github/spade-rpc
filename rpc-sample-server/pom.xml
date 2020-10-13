@@ -16,7 +16,7 @@
 
     <properties>
         <rpc-server.version>1.0-SNAPSHOT</rpc-server.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
